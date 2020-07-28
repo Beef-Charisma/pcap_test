@@ -10,4 +10,3 @@ clean:
 	rm -f pcap_test
 	rm -f *.o
 
-
